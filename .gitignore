@@ -1,0 +1,7 @@
+# Ignore raw datasets
+Twitter_Data.csv
+*.csv
+
+# Ignore python caches
+__pycache__/
+*.pyc

@@ -7,7 +7,7 @@ This project is a Natural Language Processing (NLP) application that classifies 
 
 ## 🚀 Live Web Application
 The predictive model is deployed as an interactive web application using Streamlit.
-* **Try it live here:** [Insert Link Here]
+* **Try it live here:** https://tweetsentimentapp-sqpyaywpahcfwtpvfnaxb9.streamlit.app/
 
 ## 🧠 Technical Architecture
 * **Deep Learning Model:** Architected a Bidirectional Long Short-Term Memory (Bi-LSTM) neural network using TensorFlow and Keras. The bidirectional wrapper allows the model to process sequences in both directions, capturing advanced context (e.g., sarcasm or double negatives).
